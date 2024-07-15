@@ -3,6 +3,6 @@ pytest-flake8
 mock ; python_version<'3.6'
 testpath
 toml
-setuptools>=30
+setuptools>=70.0.0
 importlib_metadata ; python_version<'3.8'
 zipp ; python_version<'3.8'
